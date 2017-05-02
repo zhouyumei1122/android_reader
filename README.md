@@ -7,7 +7,7 @@
 ## 项目
 项目中的API均来自追书神器，代码结构清晰，纯属共享学习之用。
 
-demo下载：[阅读.apk](https://github.com/zhouyumei1122/android_reader/tree/master/demo/阅读.apk)
+demo下载：[阅读.apk](https://github.com/zhouyumei1122/android_reader/master/demo/阅读.apk)
 ## 优化
 * [ ] txt阅读优化模拟翻书效果，提高分页速度以及分页准确性
 
@@ -18,15 +18,15 @@ demo下载：[阅读.apk](https://github.com/zhouyumei1122/android_reader/tree/m
 
 - **示例**
 
-<img src="https://github.com/zhouyumei1122/android_reader/tree/master/screenshot/first.png?raw=true" width="280"/>
-<img src="https://github.com/zhouyumei1122/android_reader/tree/master/screenshot/theme.png?raw=true" width="280"/>
-<img src="https://github.com/zhouyumei1122/android_reader/tree/master/screenshot/bookshelf.png?raw=true" width="280"/>
+<img src="https://github.com/zhouyumei1122/android_reader/blob/master/screenshot/first.png?raw=true" width="280"/>
+<img src="https://github.com/zhouyumei1122/android_reader/blob/master/screenshot/theme.png?raw=true" width="280"/>
+<img src="https://github.com/zhouyumei1122/android_reader/blob/master/screenshot/bookshelf.png?raw=true" width="280"/>
 
 </br>
 
-<img src="https://github.com/zhouyumei1122/android_reader/tree/master/screenshot/search.png?raw=true" width="280"/>
-<img src="https://github.com/zhouyumei1122/android_reader/tree/master/screenshot/night_mode.png?raw=true" width="280"/>
-<img src="https://github.com/zhouyumei1122/android_reader/tree/master/screenshot/setting.png?raw=true" width="280"/>
+<img src="https://github.com/zhouyumei1122/android_reader/blob/master/screenshot/search.png?raw=true" width="280"/>
+<img src="https://github.com/zhouyumei1122/android_reader/blob/master/screenshot/night_mode.png?raw=true" width="280"/>
+<img src="https://github.com/zhouyumei1122/android_reader/blob/master/screenshot/setting.png?raw=true" width="280"/>
 
 
 </br>
