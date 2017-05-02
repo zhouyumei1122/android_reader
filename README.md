@@ -7,7 +7,7 @@
 ## 项目
 项目中的API均来自追书神器，代码结构清晰，纯属共享学习之用。
 
-demo下载：[阅读.apk](https://github.com/zhouyumei1122/android_reader/blob/master/demo/阅读.apk)
+demo下载：[阅读.apk](https://github.com/zhouyumei1122/android_reader/raw/master/demo/阅读.apk)
 ## 优化
 * [ ] txt阅读优化模拟翻书效果，提高分页速度以及分页准确性
 
